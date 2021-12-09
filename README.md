@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on [![GitHub](https://i.stack.imgur.com/tskMh.png) Strategify](https://github.com/5sachin/Strategify)
 - 🌱 I’m currently learning Django
